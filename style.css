@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#main{
+    text-align: center;
+    border: 1px solid;
+    padding: 20px;   
+    width: 200px;
+    margin-top: 30vh;
+    
+}
+#total{
+    margin-bottom: 20px;
+}
+#obtained{
+    margin-bottom: 20px;
+
+}
+#btn{
+    margin-bottom: 20px;
+
+}
